@@ -1,6 +1,6 @@
 # Radxa-Zero-ULTRA-CASE
 
-CC BY-NC-ND 4.0
+**CC BY-NC-ND 4.0**
 
 ## Introduction
 
