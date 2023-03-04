@@ -8,9 +8,9 @@ The Radxa Zero single board computer case is a compact and durable protective ca
 
 ## Requirements
 
-M2*6+3 Copper pillar
-M2*6 Phillips screws
-(Optional) 3D Printer
+1. M2*6+3 Copper pillar
+2. M2*6 Phillips screws
+3. (Optional) 3D Printer
 
 
 GrabCAD: https://grabcad.com/library/radxa-zero-ultra-case-1
